@@ -18,14 +18,23 @@ export default defineConfig({
   // base,
   lang: 'zh-cn',
   title: 'Code 霞光社',
-  description: 'Code 霞光社的博客主题，基于 vitepress 实现',
+  description: 'Code 霞光社的个人博客，记录前端技术与实践心得',
   lastUpdated: true,
   // 详见：https://vitepress.dev/zh/reference/site-config#head
   head: [
-    // 配置网站的图标（显示在浏览器的 tab 上）
-    // ['link', { rel: 'icon', href: `${base}favicon.ico` }], // 修改了 base 这里也需要同步修改
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:title', content: 'Code 霞光社' }],
+    ['meta', { property: 'og:description', content: 'Code 霞光社的个人博客，记录前端技术与实践心得' }],
+    ['meta', { property: 'og:image', content: '/logo.jpg' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:title', content: 'Code 霞光社' }],
+    ['meta', { name: 'twitter:description', content: 'Code 霞光社的个人博客，记录前端技术与实践心得' }],
+    ['meta', { name: 'twitter:image', content: '/logo.jpg' }]
   ],
+  sitemap: {
+    hostname: 'https://codenoobstar.github.io/blog'
+  },
   themeConfig: {
     // 展示 2,3 级标题在目录中
     outline: {
@@ -48,13 +57,13 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '前端', link: '/fe' },
-      { text: '实践', link: '/fe-practice' },
-      { text: '关于作者', link: 'https://sugarat.top/aboutme.html' }
+      { text: '实践', link: '/sop' },
+      { text: '关于作者', link: '/about' }
     ],
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/ATQQ/sugar-blog/tree/master/packages/theme'
+        link: 'https://github.com/codeNoobStar/blog'
       }
     ]
   }
