@@ -4,15 +4,15 @@ import { getThemeConfig } from '@sugarat/theme/node'
 // 开启RSS支持（RSS配置）
 import type { Theme } from '@sugarat/theme'
 
-const baseUrl = 'https://codenoobstar.github.io/blog'
+const baseUrl = 'https://codenoobstar.github.io'
 const RSS: Theme.RSSOptions = {
   title: 'Code 霞光社',
   baseUrl,
   copyright: 'Copyright (c) 2018-present, Code 霞光社',
   description: '你的指尖,拥有改变世界的力量（大前端相关技术分享）',
   language: 'zh-cn',
-  image: '/logo.jpg',
-  favicon: '/favicon.ico',
+  image: 'https://codenoobstar.github.io/blog/logo.jpg',
+  favicon: 'https://codenoobstar.github.io/blog/favicon.ico',
 }
 
 // 所有配置项，详见文档: https://theme.sugarat.top/
