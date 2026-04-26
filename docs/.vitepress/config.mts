@@ -28,6 +28,15 @@ export default defineConfig({
     ['meta', { name: 'twitter:description', content: 'Code 霞光社的个人博客，记录前端技术与实践心得' }],
     ['meta', { name: 'twitter:image', content: `${base}logo.jpg` }]
   ],
+  vite: {
+    css: {
+      preprocessorOptions: {
+        scss: {
+          api: 'modern'
+        }
+      }
+    }
+  },
   sitemap: {
     hostname: 'https://codenoobstar.github.io/blog'
   },
@@ -44,7 +53,7 @@ export default defineConfig({
 
     // 设置logo
     // logo: '/logo.png',
-    logo: '/logo.jpg',
+    logo: `${base}logo.jpg`,
     // editLink: {
     //   pattern:
     //     'https://github.com/ATQQ/sugar-blog/tree/master/packages/blogpress/:path',

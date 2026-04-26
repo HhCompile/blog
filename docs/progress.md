@@ -19,6 +19,10 @@ aside: false
 | 3 | 清理遗留文件 & 修复导航/配置错误 | ✅ 已完成 | 删除 docs/config.js、修复导航 404、修正社交链接 |
 | 4 | 内容个性化 (RSS/社交链接/About页) | ✅ 已完成 | About 页重写、首页 motto 个性化、RSS baseUrl 修正 |
 | 5 | 添加 SEO (Sitemap + OG Meta) | ✅ 已完成 | sitemap.xml、Open Graph、Twitter Card |
+| 8 | 修复 logo 路径 base 前缀 | ✅ 已完成 | themeConfig.logo 加上 `${base}` 前缀 |
+| 9 | 消除 Sass legacy-js-api 警告 | ✅ 已完成 | vite.css.preprocessorOptions.scss.api: 'modern' |
+| 10 | 文章 frontmatter 标准化 | ✅ 已完成 | 6 篇文章全部补全 date/tags/description |
+| 11 | 清理构建缓存目录 | ✅ 已完成 | 删除 docs/.vitepress/cache/ 和 dist/
 | 6 | 添加构建验证测试 | ✅ 已完成 | scripts/verify-build.js 验证关键产物 |
 | 7 | 创建可视化进度看板页面 | ✅ 已完成 | 本页面 |
 
@@ -58,8 +62,8 @@ aside: false
 
 ## 待办事项
 
-- [ ] 确认 GitHub Pages 已开启（Settings → Pages → Source: GitHub Actions）
-- [ ] 补充真实文章 frontmatter（date、tags、description）
+- [x] 确认 GitHub Pages 已开启（Settings → Pages → Source: GitHub Actions）
+- [x] 补充真实文章 frontmatter（date、tags、description）
 - [ ] 配置 giscus 评论系统（如需）
 - [ ] 替换 `logo.jpg` 为个人专属 logo（可选）
 - [ ] 配置自定义域名（如有，修改 `baseUrl` 和 `sitemap.hostname`）

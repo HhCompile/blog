@@ -1,9 +1,10 @@
 ---
+date: 2025-05-14
 description: 介绍一下自定义主题的部分样式
 title: 🔧 主题样式定制
 readingTime: false
-tag:
- - 配置
+tags:
+  - 配置
 recommend: 3
 ---
 
