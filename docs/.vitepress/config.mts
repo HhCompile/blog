@@ -54,16 +54,16 @@ export default defineConfig({
     // 设置logo
     // logo: '/logo.png',
     logo: `${base}logo.jpg`,
-    // editLink: {
-    //   pattern:
-    //     'https://github.com/ATQQ/sugar-blog/tree/master/packages/blogpress/:path',
-    //   text: '去 GitHub 上编辑内容'
-    // },
+    editLink: {
+      pattern: 'https://github.com/codeNoobStar/blog/edit/main/docs/:path',
+      text: '在 GitHub 上编辑此页'
+    },
     nav: [
       { text: '首页', link: '/' },
       { text: '前端', link: '/fe' },
-      { text: '实践', link: '/sop' },
-      { text: '关于作者', link: '/about' }
+      { text: '工具', link: '/tools' },
+      { text: '指南', link: '/guide' },
+      { text: '关于', link: '/about' }
     ],
     socialLinks: [
       {
