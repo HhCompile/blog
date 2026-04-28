@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Code 霞光社</title>
-        <link>https://codenoobstar.github.io/blog/</link>
+        <link>https://hhcompile.github.io/blog/</link>
         <description>你的指尖,拥有改变世界的力量（大前端相关技术分享）</description>
-        <lastBuildDate>Tue, 28 Apr 2026 05:48:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 05:50:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
         <image>
             <title>Code 霞光社</title>
-            <url>https://codenoobstar.github.io/blog/logo.jpg</url>
-            <link>https://codenoobstar.github.io/blog/</link>
+            <url>https://hhcompile.github.io/blog/logo.jpg</url>
+            <link>https://hhcompile.github.io/blog/</link>
         </image>
         <copyright>Copyright (c) 2018-present, Code 霞光社</copyright>
         <item>
             <title><![CDATA[前端]]></title>
-            <link>https://codenoobstar.github.io/blog/fe/</link>
-            <guid isPermaLink="false">https://codenoobstar.github.io/blog/fe/</guid>
-            <pubDate>Mon, 27 Apr 2026 22:16:48 GMT</pubDate>
+            <link>https://hhcompile.github.io/blog/fe/</link>
+            <guid isPermaLink="false">https://hhcompile.github.io/blog/fe/</guid>
+            <pubDate>Tue, 28 Apr 2026 05:49:18 GMT</pubDate>
             <description><![CDATA[前端技术文章与心得]]></description>
             <content:encoded><![CDATA[<h1 id="前端" tabindex="-1">前端 <a class="header-anchor" href="#前端" aria-label="Permalink to &quot;前端&quot;"></a></h1>
 <p>这里收录前端开发相关的技术文章，包括框架、工程化、性能优化等。</p>
@@ -29,9 +29,9 @@
         </item>
         <item>
             <title><![CDATA[主题指南]]></title>
-            <link>https://codenoobstar.github.io/blog/guide/</link>
-            <guid isPermaLink="false">https://codenoobstar.github.io/blog/guide/</guid>
-            <pubDate>Mon, 27 Apr 2026 22:16:48 GMT</pubDate>
+            <link>https://hhcompile.github.io/blog/guide/</link>
+            <guid isPermaLink="false">https://hhcompile.github.io/blog/guide/</guid>
+            <pubDate>Tue, 28 Apr 2026 05:49:18 GMT</pubDate>
             <description><![CDATA[VitePress 博客主题使用指南]]></description>
             <content:encoded><![CDATA[<h1 id="主题指南" tabindex="-1">主题指南 <a class="header-anchor" href="#主题指南" aria-label="Permalink to &quot;主题指南&quot;"></a></h1>
 <p>基于 <a href="https://theme.sugarat.top" target="_blank" rel="noreferrer">@sugarat/theme</a> 的 VitePress 博客主题使用文档。</p>
@@ -46,9 +46,9 @@
         </item>
         <item>
             <title><![CDATA[项目优化进度]]></title>
-            <link>https://codenoobstar.github.io/blog/progress.html</link>
-            <guid isPermaLink="false">https://codenoobstar.github.io/blog/progress.html</guid>
-            <pubDate>Mon, 27 Apr 2026 22:16:48 GMT</pubDate>
+            <link>https://hhcompile.github.io/blog/progress.html</link>
+            <guid isPermaLink="false">https://hhcompile.github.io/blog/progress.html</guid>
+            <pubDate>Tue, 28 Apr 2026 05:49:18 GMT</pubDate>
             <description><![CDATA[
 # 🚧 项目优化进度看板
 
@@ -257,9 +257,9 @@
         </item>
         <item>
             <title><![CDATA[工具与配置]]></title>
-            <link>https://codenoobstar.github.io/blog/tools/</link>
-            <guid isPermaLink="false">https://codenoobstar.github.io/blog/tools/</guid>
-            <pubDate>Mon, 27 Apr 2026 22:16:48 GMT</pubDate>
+            <link>https://hhcompile.github.io/blog/tools/</link>
+            <guid isPermaLink="false">https://hhcompile.github.io/blog/tools/</guid>
+            <pubDate>Tue, 28 Apr 2026 05:49:18 GMT</pubDate>
             <description><![CDATA[开发工具、环境配置与效率提升]]></description>
             <content:encoded><![CDATA[<h1 id="工具与配置" tabindex="-1">工具与配置 <a class="header-anchor" href="#工具与配置" aria-label="Permalink to &quot;工具与配置&quot;"></a></h1>
 <p>收录开发环境搭建、工具配置、效率提升相关的文章。</p>
@@ -272,8 +272,8 @@
         </item>
         <item>
             <title><![CDATA[node_modules 包下载管理]]></title>
-            <link>https://codenoobstar.github.io/blog/tools/nodejs-version-manager.html</link>
-            <guid isPermaLink="false">https://codenoobstar.github.io/blog/tools/nodejs-version-manager.html</guid>
+            <link>https://hhcompile.github.io/blog/tools/nodejs-version-manager.html</link>
+            <guid isPermaLink="false">https://hhcompile.github.io/blog/tools/nodejs-version-manager.html</guid>
             <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Node.js 版本管理工具与 npm 配置实践]]></description>
             <content:encoded><![CDATA[<h1 id="node-modules-包下载管理" tabindex="-1">node_modules 包下载管理 <a class="header-anchor" href="#node-modules-包下载管理" aria-label="Permalink to &quot;node_modules 包下载管理&quot;"></a></h1>
@@ -461,8 +461,8 @@
         </item>
         <item>
             <title><![CDATA[VSCode + ESlint + Stylelint 配置指南]]></title>
-            <link>https://codenoobstar.github.io/blog/tools/vscode-eslint-stylelint.html</link>
-            <guid isPermaLink="false">https://codenoobstar.github.io/blog/tools/vscode-eslint-stylelint.html</guid>
+            <link>https://hhcompile.github.io/blog/tools/vscode-eslint-stylelint.html</link>
+            <guid isPermaLink="false">https://hhcompile.github.io/blog/tools/vscode-eslint-stylelint.html</guid>
             <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[VSCode 配置 ESLint + Stylelint 代码检查指南]]></description>
             <content:encoded><![CDATA[<h1 id="vscode-eslint-stylelint-配置指南" tabindex="-1">VSCode + ESlint + Stylelint 配置指南 <a class="header-anchor" href="#vscode-eslint-stylelint-配置指南" aria-label="Permalink to &quot;VSCode + ESlint + Stylelint 配置指南&quot;"></a></h1>
@@ -477,8 +477,8 @@
         </item>
         <item>
             <title><![CDATA[快速上手]]></title>
-            <link>https://codenoobstar.github.io/blog/guide/quick-start.html</link>
-            <guid isPermaLink="false">https://codenoobstar.github.io/blog/guide/quick-start.html</guid>
+            <link>https://hhcompile.github.io/blog/guide/quick-start.html</link>
+            <guid isPermaLink="false">https://hhcompile.github.io/blog/guide/quick-start.html</guid>
             <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[1 分钟内完成自己的博客创建]]></description>
             <content:encoded><![CDATA[<h1 id="快速上手" tabindex="-1">快速上手 <a class="header-anchor" href="#快速上手" aria-label="Permalink to &quot;快速上手&quot;"></a></h1>
@@ -580,8 +580,8 @@
         </item>
         <item>
             <title><![CDATA[内置第三方插件能力]]></title>
-            <link>https://codenoobstar.github.io/blog/guide/built-in-components.html</link>
-            <guid isPermaLink="false">https://codenoobstar.github.io/blog/guide/built-in-components.html</guid>
+            <link>https://hhcompile.github.io/blog/guide/built-in-components.html</link>
+            <guid isPermaLink="false">https://hhcompile.github.io/blog/guide/built-in-components.html</guid>
             <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[默认支持流程图、tabs 面板、待办列表、作品页面]]></description>
             <content:encoded><![CDATA[<h1 id="内置第三方插件能力" tabindex="-1">内置第三方插件能力 <a class="header-anchor" href="#内置第三方插件能力" aria-label="Permalink to &quot;内置第三方插件能力&quot;"></a></h1>
@@ -817,13 +817,13 @@ flowchart TD
 <p>效果如下，详见 <a href="https://theme.sugarat.top/work.html" target="_blank" rel="noreferrer">个人作品展示</a></p>
 <p><img src="https://img.cdn.sugarat.top/mdImg/MTY4NzA4ODczMzkwNg==687088733906" alt=""></p>
 <p>新建一个<code>works.md</code>文件，放入以下内容</p>
-<div class="language-md vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">md</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#005CC5;--shiki-light-font-weight:bold;--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold">---</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">layout: page</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">title: 个人作品展示</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">sidebar: false</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">outline: [</span><span style="--shiki-light:#032F62;--shiki-light-text-decoration:underline;--shiki-dark:#DBEDFF;--shiki-dark-text-decoration:underline">2,3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">]</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">sticky: 1</span></span>
-<span class="line"><span style="--shiki-light:#005CC5;--shiki-light-font-weight:bold;--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold">---</span></span>
+<div class="language-md vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">md</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">---</span></span>
+<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">layout</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">page</span></span>
+<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">title</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">个人作品展示</span></span>
+<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">sidebar</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">false</span></span>
+<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">outline</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">2</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">]</span></span>
+<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">sticky</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">---</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;UserWorksPage /></span></span></code></pre>
 </div><p>内容配置方式如下</p>
 <table><tbody><tr><td>default</td><td><div class="language-ts vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">ts</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> blogTheme</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> getThemeConfig</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">({</span></span>
@@ -910,8 +910,8 @@ flowchart TD
         </item>
         <item>
             <title><![CDATA[更多能力]]></title>
-            <link>https://codenoobstar.github.io/blog/guide/more-features.html</link>
-            <guid isPermaLink="false">https://codenoobstar.github.io/blog/guide/more-features.html</guid>
+            <link>https://hhcompile.github.io/blog/guide/more-features.html</link>
+            <guid isPermaLink="false">https://hhcompile.github.io/blog/guide/more-features.html</guid>
             <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[主题更多开箱即用能力介绍]]></description>
             <content:encoded><![CDATA[<h1 id="更多能力" tabindex="-1">更多能力 <a class="header-anchor" href="#更多能力" aria-label="Permalink to &quot;更多能力&quot;"></a></h1>
@@ -926,8 +926,8 @@ flowchart TD
         </item>
         <item>
             <title><![CDATA[🔧 主题样式定制]]></title>
-            <link>https://codenoobstar.github.io/blog/guide/theme-style.html</link>
-            <guid isPermaLink="false">https://codenoobstar.github.io/blog/guide/theme-style.html</guid>
+            <link>https://hhcompile.github.io/blog/guide/theme-style.html</link>
+            <guid isPermaLink="false">https://hhcompile.github.io/blog/guide/theme-style.html</guid>
             <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[介绍一下自定义主题的部分样式]]></description>
             <content:encoded><![CDATA[<h1 id="样式配置" tabindex="-1">样式配置 <a class="header-anchor" href="#样式配置" aria-label="Permalink to &quot;样式配置&quot;"></a></h1>
@@ -1033,8 +1033,8 @@ flowchart TD
         </item>
         <item>
             <title><![CDATA[前端 CI/CD 最佳实践]]></title>
-            <link>https://codenoobstar.github.io/blog/fe/cicd-best-practice.html</link>
-            <guid isPermaLink="false">https://codenoobstar.github.io/blog/fe/cicd-best-practice.html</guid>
+            <link>https://hhcompile.github.io/blog/fe/cicd-best-practice.html</link>
+            <guid isPermaLink="false">https://hhcompile.github.io/blog/fe/cicd-best-practice.html</guid>
             <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[前端项目 CI/CD 最佳实践总结，包含完整流程图与实战配置]]></description>
             <content:encoded><![CDATA[<h1 id="前端-ci-cd-最佳实践" tabindex="-1">前端 CI/CD 最佳实践 <a class="header-anchor" href="#前端-ci-cd-最佳实践" aria-label="Permalink to &quot;前端 CI/CD 最佳实践&quot;"></a></h1>
@@ -1112,7 +1112,7 @@ flowchart TD
 <span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  'pagefind/pagefind.js'</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">]</span></span></code></pre>
 </div><blockquote>
-<p>本项目实际配置：<a href="https://github.com/codeNoobStar/blog/blob/main/scripts/verify-build.js" target="_blank" rel="noreferrer">scripts/verify-build.js</a></p>
+<p>本项目实际配置：<a href="https://github.com/HhCompile/blog/blob/main/scripts/verify-build.js" target="_blank" rel="noreferrer">scripts/verify-build.js</a></p>
 </blockquote>
 <h3 id="✅-4-使用-lts-版本的-node" tabindex="-1">✅ 4. 使用 LTS 版本的 Node <a class="header-anchor" href="#✅-4-使用-lts-版本的-node" aria-label="Permalink to &quot;✅ 4. 使用 LTS 版本的 Node&quot;"></a></h3>
 <div class="language-yaml vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">yaml</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">- </span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">uses</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">actions/setup-node@v4</span></span>
@@ -1137,7 +1137,7 @@ flowchart TD
 <p>本博客项目使用 <strong>GitHub Actions + GitHub Pages</strong> 实现全自动部署：</p>
 <h3 id="工作流文件" tabindex="-1">工作流文件 <a class="header-anchor" href="#工作流文件" aria-label="Permalink to &quot;工作流文件&quot;"></a></h3>
 <blockquote>
-<p>实际配置：<a href="https://github.com/codeNoobStar/blog/blob/main/.github/workflows/deploy.yml" target="_blank" rel="noreferrer">.github/workflows/deploy.yml</a></p>
+<p>实际配置：<a href="https://github.com/HhCompile/blog/blob/main/.github/workflows/deploy.yml" target="_blank" rel="noreferrer">.github/workflows/deploy.yml</a></p>
 </blockquote>
 <h3 id="配置亮点" tabindex="-1">配置亮点 <a class="header-anchor" href="#配置亮点" aria-label="Permalink to &quot;配置亮点&quot;"></a></h3>
 <table tabindex="0">
@@ -1235,8 +1235,8 @@ flowchart TD
         </item>
         <item>
             <title><![CDATA[关于我]]></title>
-            <link>https://codenoobstar.github.io/blog/about.html</link>
-            <guid isPermaLink="false">https://codenoobstar.github.io/blog/about.html</guid>
+            <link>https://hhcompile.github.io/blog/about.html</link>
+            <guid isPermaLink="false">https://hhcompile.github.io/blog/about.html</guid>
             <pubDate>Sat, 26 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[关于 Code 霞光社]]></description>
             <content:encoded><![CDATA[<h1 id="关于我" tabindex="-1">关于我 <a class="header-anchor" href="#关于我" aria-label="Permalink to &quot;关于我&quot;"></a></h1>
@@ -1251,7 +1251,7 @@ flowchart TD
 <h2 id="联系我" tabindex="-1">联系我 <a class="header-anchor" href="#联系我" aria-label="Permalink to &quot;联系我&quot;"></a></h2>
 <ul>
 <li>GitHub：<a href="https://github.com/codeNoobStar" target="_blank" rel="noreferrer">codeNoobStar</a></li>
-<li>博客RSS：<a href="https://codenoobstar.github.io/blog/feed.rss" target="_blank" rel="noreferrer">订阅</a></li>
+<li>博客RSS：<a href="https://hhcompile.github.io/blog/feed.rss" target="_blank" rel="noreferrer">订阅</a></li>
 </ul>
 <blockquote>
 <p>欢迎通过评论区或 GitHub Issue 交流讨论。</p>
