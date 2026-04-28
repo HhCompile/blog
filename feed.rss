@@ -4,7 +4,7 @@
         <title>Code 霞光社</title>
         <link>https://hhcompile.github.io/blog/</link>
         <description>你的指尖,拥有改变世界的力量（大前端相关技术分享）</description>
-        <lastBuildDate>Tue, 28 Apr 2026 05:50:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 06:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-cn</language>
@@ -18,7 +18,7 @@
             <title><![CDATA[前端]]></title>
             <link>https://hhcompile.github.io/blog/fe/</link>
             <guid isPermaLink="false">https://hhcompile.github.io/blog/fe/</guid>
-            <pubDate>Tue, 28 Apr 2026 05:49:18 GMT</pubDate>
+            <pubDate>Tue, 28 Apr 2026 06:01:11 GMT</pubDate>
             <description><![CDATA[前端技术文章与心得]]></description>
             <content:encoded><![CDATA[<h1 id="前端" tabindex="-1">前端 <a class="header-anchor" href="#前端" aria-label="Permalink to &quot;前端&quot;"></a></h1>
 <p>这里收录前端开发相关的技术文章，包括框架、工程化、性能优化等。</p>
@@ -31,7 +31,7 @@
             <title><![CDATA[主题指南]]></title>
             <link>https://hhcompile.github.io/blog/guide/</link>
             <guid isPermaLink="false">https://hhcompile.github.io/blog/guide/</guid>
-            <pubDate>Tue, 28 Apr 2026 05:49:18 GMT</pubDate>
+            <pubDate>Tue, 28 Apr 2026 06:01:11 GMT</pubDate>
             <description><![CDATA[VitePress 博客主题使用指南]]></description>
             <content:encoded><![CDATA[<h1 id="主题指南" tabindex="-1">主题指南 <a class="header-anchor" href="#主题指南" aria-label="Permalink to &quot;主题指南&quot;"></a></h1>
 <p>基于 <a href="https://theme.sugarat.top" target="_blank" rel="noreferrer">@sugarat/theme</a> 的 VitePress 博客主题使用文档。</p>
@@ -48,7 +48,7 @@
             <title><![CDATA[项目优化进度]]></title>
             <link>https://hhcompile.github.io/blog/progress.html</link>
             <guid isPermaLink="false">https://hhcompile.github.io/blog/progress.html</guid>
-            <pubDate>Tue, 28 Apr 2026 05:49:18 GMT</pubDate>
+            <pubDate>Tue, 28 Apr 2026 06:01:11 GMT</pubDate>
             <description><![CDATA[
 # 🚧 项目优化进度看板
 
@@ -259,7 +259,7 @@
             <title><![CDATA[工具与配置]]></title>
             <link>https://hhcompile.github.io/blog/tools/</link>
             <guid isPermaLink="false">https://hhcompile.github.io/blog/tools/</guid>
-            <pubDate>Tue, 28 Apr 2026 05:49:18 GMT</pubDate>
+            <pubDate>Tue, 28 Apr 2026 06:01:11 GMT</pubDate>
             <description><![CDATA[开发工具、环境配置与效率提升]]></description>
             <content:encoded><![CDATA[<h1 id="工具与配置" tabindex="-1">工具与配置 <a class="header-anchor" href="#工具与配置" aria-label="Permalink to &quot;工具与配置&quot;"></a></h1>
 <p>收录开发环境搭建、工具配置、效率提升相关的文章。</p>
@@ -817,13 +817,13 @@ flowchart TD
 <p>效果如下，详见 <a href="https://theme.sugarat.top/work.html" target="_blank" rel="noreferrer">个人作品展示</a></p>
 <p><img src="https://img.cdn.sugarat.top/mdImg/MTY4NzA4ODczMzkwNg==687088733906" alt=""></p>
 <p>新建一个<code>works.md</code>文件，放入以下内容</p>
-<div class="language-md vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">md</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">---</span></span>
-<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">layout</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">page</span></span>
-<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">title</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">个人作品展示</span></span>
-<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">sidebar</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">false</span></span>
-<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">outline</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">2</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">]</span></span>
-<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">sticky</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">---</span></span>
+<div class="language-md vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">md</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#005CC5;--shiki-light-font-weight:bold;--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold">---</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">layout: page</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">title: 个人作品展示</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">sidebar: false</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">outline: [</span><span style="--shiki-light:#032F62;--shiki-light-text-decoration:underline;--shiki-dark:#DBEDFF;--shiki-dark-text-decoration:underline">2,3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">]</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">sticky: 1</span></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-light-font-weight:bold;--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold">---</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;UserWorksPage /></span></span></code></pre>
 </div><p>内容配置方式如下</p>
 <table><tbody><tr><td>default</td><td><div class="language-ts vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">ts</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> blogTheme</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> getThemeConfig</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">({</span></span>
