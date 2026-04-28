@@ -19,6 +19,6 @@ description: 关于 Code 霞光社
 ## 联系我
 
 - GitHub：[codeNoobStar](https://github.com/codeNoobStar)
-- 博客RSS：[订阅](https://codenoobstar.github.io/blog/feed.rss)
+- 博客RSS：[订阅](https://hhcompile.github.io/blog/feed.rss)
 
 > 欢迎通过评论区或 GitHub Issue 交流讨论。

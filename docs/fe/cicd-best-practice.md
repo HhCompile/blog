@@ -93,7 +93,7 @@ const requiredFiles = [
 ]
 ```
 
-> 本项目实际配置：[scripts/verify-build.js](https://github.com/codeNoobStar/blog/blob/main/scripts/verify-build.js)
+> 本项目实际配置：[scripts/verify-build.js](https://github.com/HhCompile/blog/blob/main/scripts/verify-build.js)
 
 ### ✅ 4. 使用 LTS 版本的 Node
 
@@ -136,7 +136,7 @@ permissions:
 
 ### 工作流文件
 
-> 实际配置：[.github/workflows/deploy.yml](https://github.com/codeNoobStar/blog/blob/main/.github/workflows/deploy.yml)
+> 实际配置：[.github/workflows/deploy.yml](https://github.com/HhCompile/blog/blob/main/.github/workflows/deploy.yml)
 
 ### 配置亮点
 

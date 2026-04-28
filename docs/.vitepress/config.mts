@@ -38,7 +38,7 @@ export default defineConfig({
     }
   },
   sitemap: {
-    hostname: 'https://codenoobstar.github.io/blog'
+    hostname: 'https://hhcompile.github.io/blog'
   },
   themeConfig: {
     // 展示 2,3 级标题在目录中
@@ -55,7 +55,7 @@ export default defineConfig({
     // logo: '/logo.png',
     logo: `${base}logo.jpg`,
     editLink: {
-      pattern: 'https://github.com/codeNoobStar/blog/edit/main/docs/:path',
+      pattern: 'https://github.com/HhCompile/blog/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页'
     },
     nav: [
@@ -68,7 +68,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/codeNoobStar/blog'
+        link: 'https://github.com/HhCompile/blog'
       }
     ]
   }
