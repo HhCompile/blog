@@ -182,4 +182,4 @@ on:
 3. **环境一致性** — lock 文件 + 容器化
 4. **可回滚** — 每次部署都是独立的，出问题一键回滚
 
-> 参考阅读：[GitHub Actions 官方文档](https://docs.github.com/cn/actions) | [前端工程化体系](https://theme.sugarat.top/)
+> 参考阅读：[GitHub Actions 官方文档](https://docs.github.com/cn/actions) | [VitePress 官方文档](https://vitepress.dev/zh/)

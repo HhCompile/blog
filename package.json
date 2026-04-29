@@ -6,14 +6,11 @@
   "license": "MIT",
   "scripts": {
     "dev": "vitepress dev docs",
-    "build": "vitepress build docs",
+    "build": "vitepress build docs && npx pagefind --site docs/.vitepress/dist --exclude-selectors \"div.aside, a.header-anchor\"",
     "serve": "vitepress serve docs",
     "test": "node scripts/verify-build.js"
   },
   "dependencies": {
-    "@element-plus/icons-vue": "^2.3.2",
-    "@sugarat/theme": "^0.5.17",
-    "element-plus": "^2.13.7",
     "vue": "3.5.33"
   },
   "directories": {
@@ -23,7 +20,9 @@
     "pagefind": "^1.5.2",
     "sass": "^1.99.0",
     "typescript": "^5.9.3",
-    "vitepress": "1.6.4"
+    "vitepress": "1.6.4",
+    "vitepress-plugin-mermaid": "^2.0.17",
+    "vitepress-plugin-rss": "^0.4.4"
   },
   "pnpm": {
     "peerDependencyRules": {
