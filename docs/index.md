@@ -12,9 +12,6 @@ hero:
     - theme: alt
       text: 关于作者
       link: /about
-  image:
-    src: /blog/logo.jpg
-    alt: Code 霞光社
 
 features:
   - icon: 🛠
