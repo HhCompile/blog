@@ -4,7 +4,7 @@
 
 基于 VitePress + `@sugarat/theme` 的个人静态博客，部署在 GitHub Pages。
 
-- **仓库**: `https://github.com/codeNoobStar/blog.git`
+- **仓库**: `https://github.com/HhCompile/blog.git`
 - **域名**: `https://codenoobstar.github.io/blog/`
 - **框架**: VitePress 1.6.4 + Vue 3.5.33
 - **主题**: `@sugarat/theme` 0.5.17
