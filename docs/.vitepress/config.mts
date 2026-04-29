@@ -63,6 +63,7 @@ export default defineConfig({
       { text: '前端', link: '/fe' },
       { text: '工具', link: '/tools' },
       { text: '指南', link: '/guide' },
+      { text: '思路', link: '/ideas' },
       { text: '关于', link: '/about' }
     ],
     socialLinks: [
