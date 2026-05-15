@@ -22,8 +22,8 @@
 .VPHome {
   background: radial-gradient(
     ellipse,
-    rgba(var(--vp-c-brand-1), 0.15) 0%,
-    rgba(var(--vp-c-brand-1), 0) 150%
+    color-mix(in srgb, var(--vp-c-brand-1) 15%, transparent) 0%,
+    transparent 150%
   );
 
   &::before {
